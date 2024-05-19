@@ -4,7 +4,7 @@
 
 Prototipagem do projeto seguindo o tutorial de Matheus Battisti - Hora de Codar.
 
-[Veja-o aqui!](https://filmes-xi.vercel.app/](https://filmes-xi.vercel.app/)
+[Veja-o aqui!](https://filmes-xi.vercel.app/)
 
 
 
